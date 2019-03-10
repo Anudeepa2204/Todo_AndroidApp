@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="password">Enter Password</string>
+    <string name="re_password">Re-enter Password</string>
+    <string name="email">Enter Email</string>
+    <string name="name">Enter Full Name</string>
+    <string name="addtodo">Add a Todo</string>
+    <string name="title">Add a title</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="content">Add content to the todo</string>
+    <string name="login_prompt">Already have an Account? Login Here</string>
+    <string name="signup_prompt">Do not have an Account? Sign Up Here</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/expanded"
+        android:icon="@drawable/menu"
+        android:title=""
+        myapp:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/user_icon"
+                android:title="@string/profile"
+                android:visible="true"
+                myapp:showAsAction="withText"></item>
+            <item
+                android:id="@+id/add"
+                android:icon="@drawable/add_notes"
+                android:title="@string/addtodo"
+                android:visible="true"
+                myapp:showAsAction="withText"></item>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/logout"
+                android:title="@string/logout"
+                android:visible="true"
+                myapp:showAsAction="withText"></item>
+
+        </menu>
+    </item>
+</menu>

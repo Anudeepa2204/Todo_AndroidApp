@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3da4ab</color>
+    <color name="colorPrimaryDark">#0e9aa7</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#F3F3F3</color>
+    <color name="mona_lisa">#fe9c8f</color>
+    <color name="your_pink">#fe9c8f</color>
+    <color name="sun_down">#feb2a8</color>
+    <color name="karry">#fad9c1</color>
+    <color name="peach">#fad9c1</color>
+    <color name="light_pink">#f6abb6</color>
+</resources>
